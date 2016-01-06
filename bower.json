@@ -1,0 +1,23 @@
+{
+  "name": "alarm",
+  "description": "You need to configure your mac to turn on at some time, then you set the time you want to wake up.",
+  "main": "window.js",
+  "authors": [
+    "@anamariasosam"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/anamariasosa/electron_alarm",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "~3.5.1",
+    "bootstrap": "~3.3.6"
+  }
+}
