@@ -1,6 +1,10 @@
 {
   "name": "alarm",
   "companyName": "Ana Sosa",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/anamariasosa/electron_alarm"
+  },
   "version": "1.0.0",
   "description": "You need to configure your mac to turn on at some time, then you set the time you want to wake up.",
   "main": "window.js",
