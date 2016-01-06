@@ -1,0 +1,22 @@
+{
+  "name": "alarm",
+  "companyName": "Ana Sosa",
+  "version": "1.0.0",
+  "description": "You need to configure your mac to turn on at some time, then you set the time you want to wake up.",
+  "main": "window.js",
+  "dependencies": {
+    "electron": "^0.4.1",
+    "electron-packager": "^5.1.1"
+  },
+  "devDependencies": {
+    "electron": "^0.4.1",
+    "electron-packager": "^5.2.0",
+    "electron-prebuilt": "^0.36.2"
+  },
+  "scripts": {
+    "start": "electron window.js",
+    "build": "electron-packager ./ Alarm --platform=darwin --arch=x64 --version=0.34.3 --icon='src/icons/icon.icns' --app-version=0.0.1"
+  },
+  "author": "@anamariasosam",
+  "license": "ISC"
+}
