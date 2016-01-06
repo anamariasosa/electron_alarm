@@ -28,7 +28,7 @@ Read [electron-packager](https://github.com/maxogden/electron-packager) document
 
 ### Download the app
 
-[Alarm App](https://github.com/anamariasosa/electron_alarm/blob/master/alarm.zip?raw=true) only for OSX
+[Alarm App](https://github.com/anamariasosa/electron_alarm/blob/master/AlarmApp.zip?raw=true) only for OSX
 
 -----------------------
 
