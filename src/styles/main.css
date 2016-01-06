@@ -1,0 +1,52 @@
+.alarm_app {
+  background-color: #31B0D5;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  height: 100vh;
+  text-align: center;
+}
+
+.alarm_btn-stop:hover {
+  color: #fff;
+}
+
+.alarm_btn-stop,
+.alarm_config:hover,
+.alarm_close-btn:hover {
+  color: #286090;
+  cursor:pointer;
+}
+
+.alarm_close-btn {
+  color: #fff;
+  cursor:pointer;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+}
+
+.alarm_config {
+  color: #fff;
+  cursor:pointer;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
+
+.alarm_settings-text {
+  text-align: left;
+}
+
+.alarm_save-btn{
+  color: #286090;
+}
+
+.alarm_save-btn:hover {
+  background-color: #286090;
+  border-color: #286090;
+  color: #fff;
+}
+
+.alarm_title {
+  margin-top: 50px;
+}
